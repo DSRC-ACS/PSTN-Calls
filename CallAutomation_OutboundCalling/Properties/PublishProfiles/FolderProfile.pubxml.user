@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\CallAutomation_OutboundCalling\CallAutomation_OutboundCalling\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-29T14:26:04.7865241Z;True|2024-01-29T19:49:48.3696971+05:30;True|2024-01-25T19:51:36.9502597+05:30;True|2024-01-25T17:33:08.8470347+05:30;True|2024-01-25T16:28:05.3370081+05:30;True|2024-01-25T16:25:19.3636105+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

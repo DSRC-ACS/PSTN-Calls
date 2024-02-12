@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\CallAutomation_OutboundCalling\Azure-Deploy\CallAutomation_OutboundCalling\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-01T06:02:42.2102887Z;True|2024-01-31T20:49:03.6171348+05:30;True|2024-01-31T20:47:08.3431815+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
