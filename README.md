@@ -18,12 +18,11 @@ Once the above configurations are set, run the application. You can test the out
 
 ## Issues
 
-### Delay in Recognize Function
+### Issue 1: Transcription Delay
 
-- There is a known delay of 2-3 seconds after the user speaks in the recognize function before proceeding to the play prompt.
+**Problem Description:** Users experience a 3 to 4-second delay in obtaining the transcribed text after speaking. (program.cs) line number 133
 
-### Call Recording Start Code
+### Issue 2: Call Recording Start Code
 
-- The code block for starting call recording is currently commented out. Activating this code disrupts the existing functionalities. 
+- The code block for starting call recording is currently commented out(program.cs - Line ). Activating this code disrupts the existing functionalities. 
 
-Kindly help to fix these issues.
