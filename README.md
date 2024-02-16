@@ -20,7 +20,7 @@ Once the above configurations are set, run the application. You can test the out
 
 ### Issue 1: Transcription Delay
 
-**Problem Description:** Users experience a 3 to 4-second delay in obtaining the transcribed text after speaking. (program.cs) line number 133
+- Users experience a 3 to 4-second delay in obtaining the transcribed text after speaking. (program.cs) line number 133
 
 ### Issue 2: Call Recording Start Code
 
